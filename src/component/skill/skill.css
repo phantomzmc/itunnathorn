@@ -1,0 +1,17 @@
+.boxSkill {
+    margin-top: 5%;
+    text-align: center;
+    background: white;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+.gridImg {
+    padding: 20px;
+}
+.skills {
+    padding: 20px;
+}
+.cation-skill {
+    padding: 20px;
+    font-size: 18px;
+}

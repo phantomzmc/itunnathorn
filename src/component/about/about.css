@@ -1,0 +1,76 @@
+.hello {
+    margin-top: 30%;
+    text-align: center;
+    background: white;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+.title {
+    color: black;
+}
+.content {
+    margin-top: 5%;
+    text-align: center;
+}
+.profile {
+    margin-top: 10%;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes example {
+    0% {
+        /* width: 130px;
+        height: 130px;
+        border-radius: 65px; */
+        border: 5px solid;
+        border-color: #42a5f5;
+    }
+    25% {
+        /* width: 135px;
+        height: 135px;
+        border-radius: 67.5px; */
+        border: 5px solid;
+        border-color: #fbc02d;
+    }
+    50% {
+        /* width: 140px;
+        height: 140px;
+        border-radius: 70px; */
+        border: 5px solid;
+        border-color: #00c853;
+    }
+    75% {
+        /* width: 145px;
+        height: 145px;
+        border-radius: 72.5px; */
+        border: 5px solid;
+        border-color: #f44336;
+    }
+    100% {
+        /* width: 150px;
+        height: 150px;
+        border-radius: 75px; */
+        border: 5px solid;
+        border-color: #42a5f5;
+    }
+}
+
+.detail {
+    font-size: 18px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 60px;
+    padding-bottom: 60px;
+}
+
+p {
+    margin-top: 5px;
+}

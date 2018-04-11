@@ -1,0 +1,22 @@
+.footer-bottom {
+    margin-top: 10%;
+    padding: 40px 10px 30px 10px;;
+    border-top: 1px solid #666;
+    background: #1e1e1e;
+    opacity: 0.9;
+}
+.copyright-text p {
+    color: #ccc;
+    margin-top: 10px;
+}
+.social-link li {
+    display: inline-block;
+    margin: 0 20px;
+}
+.social-link li a {
+    color: #ccc;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    transition: .5s;
+}
