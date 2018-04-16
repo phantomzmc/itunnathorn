@@ -15,12 +15,12 @@ var sectionStyle = {
 class Header extends Component {
     render() {
         const opts = {
-            playerVars: { // https://developers.google.com/youtube/player_parameters
+            playerVars: {
                 autoplay: 1,
-                start : 27,
-                end: 104,
-                loop : 1,
-                playlist :"Mhg7_F0q9Rw"       
+                start: 0,
+                loop: 1,
+                playlist: "Yc3KwxUN-QI",
+                mute: 1
             },
         };
         return (
@@ -28,7 +28,7 @@ class Header extends Component {
                 <div className="video-background">
                     <div className="video-foreground">
                         <YouTube
-                            videoId="Mhg7_F0q9Rw"
+                            videoId="Yc3KwxUN-QI"
                             opts={opts}
                             className="video-iframe"
                             onReady={this._onReady}
