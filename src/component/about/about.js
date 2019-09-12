@@ -4,7 +4,7 @@ import FaInstagram from 'react-icons/lib/fa/instagram'
 
 import './about.css'
 
-var profile = "https://scontent.fbkk1-3.fna.fbcdn.net/v/t31.0-8/18404220_1309832765732272_662010694846977645_o.jpg?_nc_cat=0&oh=7681ad3b26b13cf55150c4aefa3396db&oe=5B71B127"
+var profile = "https://scontent.fbkk4-2.fna.fbcdn.net/v/t1.0-9/21557776_1425545897494291_6496115009920700297_n.jpg?_nc_cat=101&_nc_eui2=AeFGHDI-a_pvFL6rF-6J-uFMF72JMsYgal9WNGUUD22Y5QhaeAH6qY2UdVjMHC-yoRrZ42wDgWuiwgsty0z-RVEEhS4hI6geK2mPUrjDiJVb0A&_nc_ht=scontent.fbkk4-2.fna&oh=4397c04897fe041f0d1a80c693a334cf&oe=5CE61AFC"
 
 
 class About extends Component {
