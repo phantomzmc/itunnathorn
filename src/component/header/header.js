@@ -6,7 +6,7 @@ import YouTube from 'react-youtube';
 
 import './header.css'
 
-var profile = "https://scontent.fbkk1-3.fna.fbcdn.net/v/t31.0-8/18404220_1309832765732272_662010694846977645_o.jpg?_nc_cat=0&oh=7681ad3b26b13cf55150c4aefa3396db&oe=5B71B127"
+var profile = "https://www.facebook.com/photo.php?fbid=2365586546823550&set=a.124523280929899&type=3&theater"
 var video = "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4"
 var sectionStyle = {
     width: "100%",
